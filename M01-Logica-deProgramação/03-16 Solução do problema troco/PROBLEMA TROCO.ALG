@@ -18,7 +18,7 @@ Inicio
 
       troco <- dinheiro - (precoProduto * quantidade)
 
-      escreva("TROCO = ", troco)
+      escreva("TROCO = ", troco:1:2)
 
       
 
